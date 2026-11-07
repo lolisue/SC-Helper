@@ -18,4 +18,4 @@ Permissions: activeTab and scripting let the extension read the page you are vie
 
 Independence: SC Helper is an independent tool. It is not affiliated with, endorsed by, or sponsored by any school, software vendor or government agency, including the U.S. Department of Education.
 
-Contact: kevinfuwa45@gmail.com
+Contact: yanami.arona@gmail.com
